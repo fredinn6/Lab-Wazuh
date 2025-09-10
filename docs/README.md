@@ -19,7 +19,7 @@ Este diretório contém a documentação detalhada de todas as etapas de constru
 - **Linux Server/** → Configuração de serviços no Ubuntu e integração com o Suricata e o Wazuh.  
 - **Wazuh/** → Instalação, configuração de agentes, criação de regras customizadas e integração com VirusTotal e Suricata.  
 - **Grafana/** → Configuração de dashboards personalizados para monitoramento e correlação de eventos de segurança.  
-- **Red Team/** → Registro das simulações de ataque (Kali Linux) contra o ambiente corporativo.  
+
 
 ---
 
@@ -27,5 +27,5 @@ Este diretório contém a documentação detalhada de todas as etapas de constru
 
 A documentação serve para:  
 1. **Reprodução** → Permitir que qualquer pessoa recrie o ambiente do zero.  
-2. **Estudo** → Facilitar o aprendizado prático em **cibersegurança ofensiva e defensiva**.  
+2. **Estudo** → Facilitar o aprendizado prático em **cibersegurança defensiva**.  
 3. **Referência** → Servir como guia de boas práticas para laboratórios locais.  
