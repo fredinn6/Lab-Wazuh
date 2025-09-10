@@ -37,7 +37,7 @@ Centralizar e versionar os principais arquivos de configuração para:
 
 2.2. Reinicie o manager do Wazuh:
       ```powershell
-  systemctl restart wazuh-manager
+      systemctl restart wazuh-manager
 
 
 
