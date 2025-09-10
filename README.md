@@ -64,7 +64,7 @@ Neste laboratório foram implementadas as seguintes proteções e integrações:
 ---
 
 ## 🚀 O que você encontrará neste repositório
-- `docs/` — diagramas, prints e tutoriais passo a passo  
+- `docs/` — diagramas e prints 
 - `configs/` — templates e exemplos de configurações (Wazuh, Sysmon, Suricata, etc.)  
 - `scripts/` — scripts de automação (instalação / deploy de agentes)  
 - `dashboards/` — exports/imports de dashboards (Grafana / Kibana)  
