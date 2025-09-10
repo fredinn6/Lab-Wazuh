@@ -7,7 +7,7 @@ Eles servem como base para padronizar a coleta de logs e a criação de regras d
 
 ## 📂 Estrutura
 
-- **sysmon-config.xml** → Arquivo de configuração do **Sysmon** (Windows).  
+- **sysmonconfig-export.xml** → Arquivo de configuração do **Sysmon** (Windows).  
   - Define quais eventos do Windows serão monitorados.  
   - Inclui monitoramento de criação de processos, alterações em registro, conexões de rede e muito mais.  
   - Baseado em boas práticas da comunidade (SwiftOnSecurity + customizações para este lab).  
@@ -38,3 +38,9 @@ Centralizar e versionar os principais arquivos de configuração para:
 2.2. Reinicie o manager do Wazuh:
    ```powershell
    systemctl restart wazuh-manager
+   ```
+
+## Observações
+
+Script de instalação do sysmon na máquina Windows está na pasta /scripts
+O arquivo presente nessa pasta /configs é apenas o arquivo de configuração utilizado no sysmon
