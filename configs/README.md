@@ -36,8 +36,9 @@ Centralizar e versionar os principais arquivos de configuração para:
    /var/ossec/etc/rules/local_rules.xml
 
 2.2. Reinicie o manager do Wazuh:
-      ```powershell
-      systemctl restart wazuh-manager
+   ```powershell
+   systemctl restart wazuh-manager
+
 
 
 
