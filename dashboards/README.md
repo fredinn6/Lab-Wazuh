@@ -36,7 +36,7 @@ O objetivo é centralizar os **arquivos .json** de exportação e capturas de te
 
 ## 🖼️ Prints
 
-Abaixo você pode visualizar exemplos dos dashboards em funcionamento:  
+Abaixo você pode visualizar os dashboards do Wazuh em funcionamento:  
 
 
 ---
