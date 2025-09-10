@@ -44,5 +44,5 @@ Centralizar e versionar os principais arquivos de configuração para:
 
 ## Observações
 
-Script de instalação do sysmon na máquina Windows está na pasta [/scripts](Lab-Wazuh/scripts)
+Script de instalação do sysmon na máquina Windows está na pasta [/scripts](./scripts)
 O arquivo presente nessa pasta /configs é apenas o arquivo de configuração utilizado no sysmon
