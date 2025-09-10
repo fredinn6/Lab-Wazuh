@@ -7,10 +7,8 @@ Este diretório contém a documentação detalhada de todas as etapas de constru
 
 ## 🖼️ Arquitetura do Laboratório  
 
-<img width="1920" height="1080" alt="Arquitetura" src="https://github.com/user-attachments/assets/dbcfd98c-bbc2-4820-959c-5f997a82ad7b" />
+<img width="1000" height="560" alt="Arquitetura" src="https://github.com/user-attachments/assets/dbcfd98c-bbc2-4820-959c-5f997a82ad7b" />
  
-*(adicione aqui a imagem gerada do diagrama da arquitetura)*  
-
 ---
 
 ## 📌 Estrutura da Documentação  
