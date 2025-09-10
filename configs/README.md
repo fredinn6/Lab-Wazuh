@@ -40,6 +40,8 @@ Centralizar e versionar os principais arquivos de configuração para:
    systemctl restart wazuh-manager
    ```
 
+---
+
 ## Observações
 
 Script de instalação do sysmon na máquina Windows está na pasta /scripts
