@@ -64,7 +64,7 @@ Neste laboratório foram implementadas as seguintes proteções e integrações:
 - `configs/` — templates e exemplos de configurações (Wazuh, Sysmon, Suricata, etc.)  
 - `scripts/` — scripts de automação (instalação / deploy de agentes)  
 - `dashboards/` — exports/imports de dashboards (Grafana / Kibana)  
-- `examples/` — exemplos de cenários e playbooks de teste
+
 
 ---
 
