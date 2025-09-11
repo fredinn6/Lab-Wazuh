@@ -54,8 +54,8 @@ A ideia é **documentar todo o processo** passo a passo para que qualquer pessoa
 - **IP (exemplo):** `192.168.1.102`  
 - **Uso:** servidor alvo / serviços para testes
 
-### Ubuntu Server
-- **IP (exemplo):** `192.168.1.103`  
+### Ubuntu Server - SIEM
+- **IP (exemplo):** `192.168.1.104`  
 - **Uso:** servidor alvo / serviços para testes
 
 ---
