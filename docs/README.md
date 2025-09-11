@@ -21,19 +21,6 @@ Aqui você encontrará os arquivos/documentos desta pasta e uma breve explicaç�
  
 ---
 
-## 📌 Estrutura da Documentação  
-
-- **pfSense/** → Configuração do firewall, NAT, regras de rede e integração com Suricata e Wazuh.  
-- **Active Directory/** → Instalação e configuração do Windows Server como controlador de domínio, DNS, DHCP e políticas de grupo (GPO).  
-- **Windows Client/** → Ingresso no domínio, aplicação de GPOs e configuração do Sysmon para envio de logs ao Wazuh.  
-- **Linux Server/** → Configuração de serviços no Ubuntu e integração com o Suricata e o Wazuh.  
-- **Wazuh/** → Instalação, configuração de agentes e integração com VirusTotal e Suricata.
-- **Grafana/** → Configuração de dashboards personalizados para monitoramento e correlação de eventos de segurança.  
- 
-
-
----
-
 ## 🎯 Objetivo  
 
 A documentação serve para:  
