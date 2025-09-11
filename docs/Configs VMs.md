@@ -1,4 +1,4 @@
-# 🖥️ Configurações das VMs
+<img width="1066" height="582" alt="image" src="https://github.com/user-attachments/assets/0ff582cb-7197-4c52-8d26-b5da0ef7e6f5" /># 🖥️ Configurações das VMs
 
 Este documento contém as configurações e capturas de tela das **máquinas virtuais** utilizadas no laboratório.  
 Todas as VMs foram criadas no **VirtualBox**.
@@ -18,20 +18,20 @@ Todas as VMs foram criadas no **VirtualBox**.
 ## 🖼️ Prints das VMs no VirtualBox
 
 ### 🔹 pfSense
-<img width="1074" height="608" alt="image" src="https://github.com/user-attachments/assets/85a4ab2a-86fa-4a07-8af2-e1a3c8f67157" />
+<img width="1064" height="585" alt="image" src="https://github.com/user-attachments/assets/39b04fbe-616b-4476-928c-a48d04f2fcc9" />
 
 ### 🔹 Windows Server
-<img width="1077" height="616" alt="Captura de tela 2025-09-11 101512" src="https://github.com/user-attachments/assets/634c1d19-8a52-4f7c-b00f-6e1d12efdf33" />
+<img width="1065" height="585" alt="image" src="https://github.com/user-attachments/assets/1fe20740-d78c-4384-99b0-89c0920d45a7" />
 
 ### 🔹 Windows Client
-<img width="1074" height="606" alt="image" src="https://github.com/user-attachments/assets/3ab41ff4-c5fa-4687-b84f-545c4d30d3ea" />
+<img width="1066" height="581" alt="image" src="https://github.com/user-attachments/assets/57c2548d-0f91-4842-81b4-76832b1c4040" />
 
 ### 🔹 Ubuntu Server (Wazuh)
-<img width="1075" height="584" alt="image" src="https://github.com/user-attachments/assets/969375f3-f932-4622-8387-e0314cccd0d8" />
-
+<img width="1065" height="583" alt="image" src="https://github.com/user-attachments/assets/c7109856-9ad5-430a-a469-1683ee83c9c3" />
 
 ### 🔹 Ubuntu Server (Suricata + Grafana)
-<img width="1077" height="607" alt="image" src="https://github.com/user-attachments/assets/43aabca8-0599-4871-8910-ec3207a1915b" />
+<img width="1066" height="582" alt="image" src="https://github.com/user-attachments/assets/0a462d61-4688-4f27-95d6-7e8a3c2be8d5" />
+
 
 ---
 
