@@ -1,5 +1,13 @@
 # 🔐 Laboratório de Cibersegurança
 
+## 📑 Sumário
+- [📂 docs/](./docs) — diagramas e prints  
+- [⚙️ configs/](./configs) — templates e exemplos de configurações (Wazuh, Sysmon, Suricata, etc.)  
+- [📜 scripts/](./scripts) — scripts de automação (instalação / deploy de agentes)  
+- [📊 dashboards/](./dashboards) — exports/imports de dashboards (Grafana / Kibana)  
+
+---
+
 ## 📌 Objetivo
 Este projeto tem como objetivo **simular uma infraestrutura corporativa** para estudo e prática de segurança **defensiva (Blue Team)**.
 
@@ -60,15 +68,6 @@ Neste laboratório foram implementadas as seguintes proteções e integrações:
 - **Regras customizadas** (Wazuh / Sysmon / Suricata)
 - **Suricata** integrado para análise de tráfego de rede (IDS/IPS)
 - **Dashboards no Grafana** para visualização e investigação em tempo real
-
----
-
-## 🚀 O que você encontrará neste repositório
-- `docs/` — diagramas e prints 
-- `configs/` — templates e exemplos de configurações (Wazuh, Sysmon, Suricata, etc.)  
-- `scripts/` — scripts de automação (instalação / deploy de agentes)  
-- `dashboards/` — exports/imports de dashboards (Grafana / Kibana)  
-
 
 ---
 
