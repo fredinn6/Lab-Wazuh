@@ -51,11 +51,11 @@ A ideia é **documentar todo o processo** passo a passo para que qualquer pessoa
 - **Status:** ingressado no domínio `corp.local`
 
 ### Ubuntu Server
-- **IP (exemplo):** `192.168.1.102`  
+- **IP (exemplo):** `192.168.1.106`  
 - **Uso:** servidor alvo / serviços para testes
 
 ### Ubuntu Server - SIEM
-- **IP (exemplo):** `192.168.1.104`  
+- **IP (exemplo):** `192.168.1.105`  
 - **Uso:** servidor alvo / serviços para testes
 
 ---
