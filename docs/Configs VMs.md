@@ -20,7 +20,7 @@ Todas as VMs foram criadas no **VirtualBox**.
 ### 🔹 pfSense
 <img width="1074" height="608" alt="image" src="https://github.com/user-attachments/assets/85a4ab2a-86fa-4a07-8af2-e1a3c8f67157" />
 
-### 🔹 Windows Server (AD + DNS + DHCP)
+### 🔹 Windows Server
 <img width="1077" height="616" alt="Captura de tela 2025-09-11 101512" src="https://github.com/user-attachments/assets/634c1d19-8a52-4f7c-b00f-6e1d12efdf33" />
 
 ### 🔹 Windows Client
