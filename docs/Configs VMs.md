@@ -27,7 +27,8 @@ Todas as VMs foram criadas no **VirtualBox**.
 <img width="1074" height="606" alt="image" src="https://github.com/user-attachments/assets/3ab41ff4-c5fa-4687-b84f-545c4d30d3ea" />
 
 ### 🔹 Ubuntu Server (Wazuh)
-<img width="1079" height="615" alt="image" src="https://github.com/user-attachments/assets/e689c488-20b7-4129-b03a-a6a2b3206ae7" />
+<img width="1075" height="584" alt="image" src="https://github.com/user-attachments/assets/969375f3-f932-4622-8387-e0314cccd0d8" />
+
 
 ### 🔹 Ubuntu Server (Suricata + Grafana)
 <img width="1077" height="607" alt="image" src="https://github.com/user-attachments/assets/43aabca8-0599-4871-8910-ec3207a1915b" />
