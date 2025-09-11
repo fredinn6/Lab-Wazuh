@@ -11,7 +11,7 @@ Aqui você encontrará os arquivos/documentos desta pasta e uma breve explicaç�
 
 | Arquivo | Descrição |
 |---------|-----------|
-| [`configs VMs.md`](/Configs VMs.md) | Prints e informações sobre a configuração das VMs no VirtualBox, incluindo redes e adaptadores. |
+| [`Configs VMs.md`](/Configs%20VMs.md) | Prints e informações sobre a configuração das VMs no VirtualBox, incluindo redes e adaptadores. |
 | *(adicione aqui os próximos arquivos)* | *(descreva o conteúdo do arquivo)* |
 
 ---
