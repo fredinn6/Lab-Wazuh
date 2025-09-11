@@ -12,7 +12,6 @@ Todas as VMs foram criadas no **VirtualBox**.
 - **Windows Client** → Estação de trabalho ingressada no domínio  
 - **Ubuntu Server (Wazuh)** → Servidor SIEM  
 - **Ubuntu Server (Suricata + Grafana)** → IDS/Monitoramento  
-- **Kali Linux** → Atacante  
 
 ---
 
