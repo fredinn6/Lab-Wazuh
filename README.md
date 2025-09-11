@@ -25,7 +25,7 @@ A ideia é **documentar todo o processo** passo a passo para que qualquer pessoa
 
 ## 🏗️ Arquitetura do Laboratório
 - **pfSense** → Firewall e roteamento  
-- **Windows Server (AD + DNS + DHCP)** → Controlador de domínio  
+- **Windows Server** → Controlador de domínio  
 - **Windows Client** → Workstation ingressada no domínio  
 - **2 Ubuntu Server** → Servidores para hospedar aplicações
 - **Wazuh + Suricata + Grafana** → Stack de monitoramento e SIEM
