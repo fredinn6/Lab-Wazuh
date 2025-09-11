@@ -46,5 +46,7 @@ Aqui ficam os prints com os detalhes de rede de cada VM.
 - **Outras VMs**
 <img width="653" height="300" alt="image" src="https://github.com/user-attachments/assets/028e4703-33ae-41b4-b2db-4eeafd91e44d" />
 
----
+
 📌 **Obs:** Todas as VMs possuem MAC diferentes, gerados automaticamente, utilizei apenas uma print para melhorar a visualização.  
+
+---
