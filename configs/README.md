@@ -31,9 +31,9 @@ Centralizar e versionar os principais arquivos de configuração para:
    ```powershell
    sysmon -accepteula -i sysmon-config.xml
    
-2. Importe o local_rules.xml no servidor Wazuh em:
+2. Importe o wazuh_rules.xml no servidor Wazuh em:
    ```powershell
-   /var/ossec/etc/rules/local_rules.xml
+   /var/ossec/etc/rules/
 
 2.2. Reinicie o manager do Wazuh:
    ```powershell
