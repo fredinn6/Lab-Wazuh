@@ -41,6 +41,7 @@ Aqui ficam os prints com os detalhes de rede de cada VM.
 
 - **pfSense - Interfaces**
 <img width="652" height="295" alt="image" src="https://github.com/user-attachments/assets/ac6e152a-7599-453f-93e2-652065ad45d2" />
+<img width="653" height="300" alt="image" src="https://github.com/user-attachments/assets/028e4703-33ae-41b4-b2db-4eeafd91e44d" />
 
 - **Windows Server (AD + DNS + DHCP)**  
 <img width="653" height="300" alt="image" src="https://github.com/user-attachments/assets/028e4703-33ae-41b4-b2db-4eeafd91e44d" />
