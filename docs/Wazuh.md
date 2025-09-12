@@ -28,7 +28,10 @@ A instalação foi realizada utilizando o passo a passo descrito na documentaç�
 <img width="1012" height="795" alt="image" src="https://github.com/user-attachments/assets/abe49d33-f9c5-4145-8be1-c0780faae975" />
 - Arquivo `/var/ossec/etc/ossec.conf`:
 <img width="535" height="204" alt="image" src="https://github.com/user-attachments/assets/5d2ca7e6-0213-4ade-9cbc-fcbe1343671f" />
-
+- Se o passo a passo for feito corretamente, a saída tem que ser essa no teste de saída do filebeat:
+<img width="536" height="224" alt="image" src="https://github.com/user-attachments/assets/abc89547-cdaf-46f7-bdf3-947861fdd50b" />
+**Wazuh Dashboard**
+  - 
 ---
 
 ## 🔑 Configurações Iniciais
