@@ -1,4 +1,4 @@
-<img width="1066" height="582" alt="image" src="https://github.com/user-attachments/assets/0ff582cb-7197-4c52-8d26-b5da0ef7e6f5" /># 🖥️ Configurações das VMs
+# 🖥️ Configurações das VMs
 
 Este documento contém as configurações e capturas de tela das **máquinas virtuais** utilizadas no laboratório.  
 Todas as VMs foram criadas no **VirtualBox**.
