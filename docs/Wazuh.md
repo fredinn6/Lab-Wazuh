@@ -40,6 +40,8 @@ A instalação foi realizada utilizando o passo a passo descrito na documentaç�
 - Arquivo `/usr/share/wazuh-dashboard/data/wazuh/config/wazuh.yml`:
 <img width="379" height="132" alt="image" src="https://github.com/user-attachments/assets/0ed9ada6-b031-4d2b-86d0-f02b3a6d1c2f" />
 
+- Wazuh Dashboard configurado com sucesso:
+<img width="1274" height="1237" alt="image" src="https://github.com/user-attachments/assets/a847d8d2-655f-47a2-840b-d5cd341d149d" />
 
   
 ---
