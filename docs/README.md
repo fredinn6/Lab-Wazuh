@@ -12,7 +12,7 @@ Aqui você encontrará os arquivos/documentos desta pasta e uma breve explicaç�
 | Arquivo | Descrição |
 |---------|-----------|
 | [`Configs VMs.md`](./Configs%20VMs.md) | Prints e informações sobre a configuração das VMs no VirtualBox, incluindo redes e adaptadores. |
-| *(adicione aqui os próximos arquivos)* | *(descreva o conteúdo do arquivo)* |
+| [`Wazuh.md`](./Wazuh.md) | Prints e informações sobre a configuração do Wazuh, incluindo instalação inicial, regras e integrações. |
 
 ---
 ## 🖼️ Arquitetura do Ambiente  
