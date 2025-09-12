@@ -13,7 +13,9 @@ A instalação foi realizada utilizando o passo a passo descrito na documentaç�
 - Sistema operacional utilizado: Ubuntu Server 20.04
 - Versão do Wazuh: 4.12
 
-- 
+- Arquivo config.yml:
+<img width="1009" height="493" alt="image" src="https://github.com/user-attachments/assets/b1f91368-a899-47ba-8aa3-ef57433d3e89" />
+
 
 ---
 
