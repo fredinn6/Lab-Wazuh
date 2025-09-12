@@ -13,6 +13,7 @@ A instalação foi realizada utilizando o passo a passo descrito na documentaç�
 - Sistema operacional utilizado: Ubuntu Server 20.04
 - Versão do Wazuh: 4.12
 
+**Wazuh Indexer**
 - Arquivo `config.yml`:
 <img width="1009" height="493" alt="image" src="https://github.com/user-attachments/assets/b1f91368-a899-47ba-8aa3-ef57433d3e89" />
 
@@ -21,6 +22,12 @@ A instalação foi realizada utilizando o passo a passo descrito na documentaç�
 
 - Se o passo a passo for feito corretamente, a saída tem que ser essa na inicialização do cluster:
 <img width="1012" height="795" alt="image" src="https://github.com/user-attachments/assets/71d3bd1a-1e08-4b71-b2d9-1f134d64cd60" />
+
+**Wazuh Manager**
+- Arquivo `/etc/filebeat/filebeat.yml`:
+<img width="1012" height="795" alt="image" src="https://github.com/user-attachments/assets/abe49d33-f9c5-4145-8be1-c0780faae975" />
+- Arquivo `/var/ossec/etc/ossec.conf`:
+<img width="535" height="204" alt="image" src="https://github.com/user-attachments/assets/5d2ca7e6-0213-4ade-9cbc-fcbe1343671f" />
 
 ---
 
