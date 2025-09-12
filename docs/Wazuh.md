@@ -19,6 +19,8 @@ A instalação foi realizada utilizando o passo a passo descrito na documentaç�
 - Arquivo `/etc/wazuh-indexer/opensearch.yml`:
 <img width="1015" height="648" alt="image" src="https://github.com/user-attachments/assets/77f62120-2020-4fde-86c1-1b993bbb3ab6" />
 
+- Se o passo a passo for feito corretamente, a saída tem que ser essa na inicialização do cluster:
+<img width="1012" height="795" alt="image" src="https://github.com/user-attachments/assets/71d3bd1a-1e08-4b71-b2d9-1f134d64cd60" />
 
 ---
 
