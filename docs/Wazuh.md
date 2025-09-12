@@ -34,7 +34,13 @@ A instalação foi realizada utilizando o passo a passo descrito na documentaç�
 <img width="536" height="224" alt="image" src="https://github.com/user-attachments/assets/abc89547-cdaf-46f7-bdf3-947861fdd50b" />
 
 **Wazuh Dashboard**
-  - 
+  - Arquivo `/etc/wazuh-dashboard/opensearch_dashboards.yml`:
+<img width="1013" height="272" alt="image" src="https://github.com/user-attachments/assets/d4a11fde-1bad-4166-9897-1f706e770038" />
+
+- Arquivo `/usr/share/wazuh-dashboard/data/wazuh/config/wazuh.yml`:
+<img width="379" height="132" alt="image" src="https://github.com/user-attachments/assets/0ed9ada6-b031-4d2b-86d0-f02b3a6d1c2f" />
+
+
   
 ---
 
