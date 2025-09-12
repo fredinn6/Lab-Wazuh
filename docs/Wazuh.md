@@ -52,12 +52,17 @@ A instalação foi realizada utilizando o passo a passo descrito na documentaç�
 
 **Troca de senha de todos os usuários:**
 Utilizando o comando: 
-`/usr/share/wazuh-indexer/plugins/opensearch-security/tools/wazuh-passwords-tool.sh --api --change-all --admin-user wazuh --admin-password wazuh` 
+```powershell
+/usr/share/wazuh-indexer/plugins/opensearch-security/tools/wazuh-passwords-tool.sh --api --change-all --admin-user wazuh --admin-password wazuh
+```
 é realizada a troca de senha:
 <img width="1013" height="234" alt="image" src="https://github.com/user-attachments/assets/e3888757-eb5a-4e58-9edb-ed70cfadb2b3" />
 
 **Troca de senha de usuário específico:**
 Utilizando o comando:
+```powershell
+/usr/share/wazuh-indexer/plugins/opensearch-security/tools/wazuh-passwords-tool.sh --user "seu_user" -password "senha_desejada"
+```
  
 - Agentes cadastrados:  
 
