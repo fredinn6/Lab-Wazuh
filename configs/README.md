@@ -27,15 +27,12 @@ Centralizar e versionar os principais arquivos de configuração para:
 
 ## 📌 Como Usar
 
-1. Copie o arquivo `sysmon-config.xml` para a estação Windows e instale o Sysmon com:  
-   ```powershell
-   sysmon -accepteula -i sysmon-config.xml
-   
-2. Importe o wazuh_rules.xml no servidor Wazuh em:
+
+1. Importe o wazuh_rules.xml no servidor Wazuh em:
    ```powershell
    /var/ossec/etc/rules/
 
-2.2. Reinicie o manager do Wazuh:
+1.2. Reinicie o manager do Wazuh:
    ```powershell
    systemctl restart wazuh-manager
    ```
